@@ -1,5 +1,5 @@
-[main.htm](https://github.com/user-attachments/files/22062083/main.htm)
-<!DOCTYPE html>
+(https://github.com/user-attachments/files/22062083/main.htm
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
